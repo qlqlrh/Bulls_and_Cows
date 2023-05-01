@@ -1,2 +1,3 @@
 # Bulls_and_Cows
-KEEPER Mentoring
+
+This is Bulls and Cows repo.
