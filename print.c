@@ -2,8 +2,9 @@
 
 int main( void )
 {
-	int a;
-	scanf("%d", &a);
-	printf("%d\n", a);
+	int number;
+	printf("Input 3 digits number : ");
+	scanf("%d", &number);
+	printf("Your number is %d\n", number);
 	return 0;
 }
