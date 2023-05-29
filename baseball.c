@@ -56,7 +56,7 @@ int main( void )
     
     nothing = 3 - strike - ball;
     
-    printf("Strike: %d, Ball: %d, Nothing = %d\n", strike, ball, nothing);
+    printf("\tStrike: %d, Ball: %d, Nothing = %d\n", strike, ball, nothing);
     printf("Random num is %d%d%d\n", computer[0], computer[1], computer[2]);
         
     return 0;
